@@ -1,3 +1,4 @@
 vendor/
 pkg/
 volume/
+.DS_Store
